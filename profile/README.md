@@ -6,7 +6,7 @@
 
 **🌱 Antecipando chamas para um futuro mais verde**
 
-Monitoramento de focos de incêndio com sensores em campo, mapa em tempo real e alertas automáticos.
+Monitoramento e prevenção de focos de incêndio com sensores em campo, mapa em tempo real e alertas automáticos.
 
 [Instagram](https://www.instagram.com/pyroalert) · [pyroalertpessoal@gmail.com](mailto:pyroalertpessoal@gmail.com)
 
